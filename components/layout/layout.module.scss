@@ -1,0 +1,10 @@
+.container{
+    background-image: URL('/background-2.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    .box{
+        min-height: 100vh;
+        background-color: #ffffff60;
+        backdrop-filter: blur(20px);
+    }
+}

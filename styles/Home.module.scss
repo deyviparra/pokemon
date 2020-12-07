@@ -1,0 +1,27 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  input{
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 20px;
+    min-width: 250px;
+  }
+  a{
+    color: white;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    min-width: 200px;
+    text-align: center;
+  }
+}
+
+
